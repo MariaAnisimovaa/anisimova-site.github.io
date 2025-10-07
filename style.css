@@ -12,25 +12,25 @@
         }
         @font-face {
             font-family: 'Inter Bold';
-            src: url('../Шрифты/Inter-ExtraBold.otf') format('opentype');
+            src: url('./Шрифты/Inter-ExtraBold.otf') format('opentype');
             font-weight: normal;
             font-style: normal;
             }
         @font-face {
             font-family: 'Inter SemiBold';
-            src: url('../Шрифты/Inter-SemiBold.otf') format('opentype');
+            src: url('./Шрифты/Inter-SemiBold.otf') format('opentype');
             font-weight: normal;
             font-style: normal;
             }
         @font-face {
             font-family: 'Inter Medium';
-            src: url('../Шрифты/Inter-Medium.otf') format('opentype');
+            src: url('./Шрифты/Inter-Medium.otf') format('opentype');
             font-weight: normal;
             font-style: normal;
             }
          @font-face {
             font-family: 'Inter Regular';
-            src: url('../Шрифты/Inter-Regular.otf') format('opentype');
+            src: url('./Шрифты/Inter-Regular.otf') format('opentype');
             font-weight: normal;
             font-style: normal;
             }
